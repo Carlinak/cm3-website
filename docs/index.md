@@ -4,9 +4,9 @@ title: Plantain & Palm Oil
 
 This is the home page of Rahul's CM3 website.
 
-## Exports and Imports
+## Ecuador
 
-### Ecuador
+### Exports and Imports
 
 Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise. For a new para, you need to hit return at least twice.
 
